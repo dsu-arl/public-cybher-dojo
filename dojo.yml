@@ -194,4 +194,4 @@ modules:
           module: forensics
           challenge: findthegeneralii
 
-type: public
+type: private
